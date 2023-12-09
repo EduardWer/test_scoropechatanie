@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAEndScJxa8yB4aPsnRPmFzoi4NVBF8eWwz+j1Ko7/xnvYkkKa/PWvhaLxt2BqwkxQCTSSIhEpLs7UME+PZsKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\Speedtest_my\\Speedtest_my_il\\Speedtest_my_il.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
